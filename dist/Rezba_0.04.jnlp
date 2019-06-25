@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Rezba_0.04.jnlp">
+  <information>
+    <title>Rezba_0.04</title>
+    <vendor>vb</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Rezba_0.04.jar" size="240502" download="eager" />
+    <jar href="lib\AbsoluteLayout.jar" size="2903" download="eager" />
+  </resources>
+  <application-desc main-class="rezba_0.pkg01.MainFrame"  name="Rezba_0.04" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
